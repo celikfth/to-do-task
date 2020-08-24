@@ -1,0 +1,93 @@
+
+  
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
+body{
+    
+    background-image: url(img/123.png);
+   background-size: cover;
+   background-repeat: no-repeat;
+}
+
+div.name{
+text-align: center;
+font-size: 40px;
+
+}
+div.contact-information{
+    font-size: 20px;
+    margin: 10px 0 20px 0;
+    text-align: center;
+    display: block;
+    
+}
+div.part-name{
+
+    text-align: center;
+}
+div.date-column{
+    text-align: right;
+    margin-right: 0;
+    padding-right: 0;
+    font-weight: 600;
+    font-size: 14px;
+    color: #495057;
+    color: rgb(90, 47, 47);
+    font-size: 20px;
+
+}
+a{
+  text-decoration: none;
+  border: 1px solid #cccccc;
+  padding: 5px;
+  margin-left: auto;
+  margin-right:auto;
+  
+}
+.slide{
+  margin-top: top 10px;
+}
+img{
+  margin-left: 10%;
+  margin-right:10%;
+}
+/*DO NOT EDIT BELOW*/
+.footer {
+  background-color: #333;
+  height: 80px;
+  width: 97.5%;
+  padding: 25px;
+}
+.whitetext {
+  color:white;
+  margin: 0px;
+  padding:0px;
+}
+.whitelogo {
+  color:white;
+  font-size:2em;
+}
+.whitelogo:hover {
+  color:lightgray;
+}
